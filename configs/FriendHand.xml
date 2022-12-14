@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="DiazDeCerio"/>
+	<feature automatic="selected" name="Icons"/>
+	<feature manual="selected" name="Icons_Hand"/>
+	<feature automatic="unselected" name="Icons_BlueRed"/>
+	<feature automatic="unselected" name="Icons_Purple"/>
+	<feature automatic="selected" name="Oponent"/>
+	<feature name="OponentComputer"/>
+	<feature manual="selected" name="OponentFriend"/>
+	<feature automatic="selected" manual="selected" name="About"/>
+	<feature manual="selected" name="Url"/>
+	<feature name="GamesCount"/>
+	<feature name="TrackGames"/>
+	<feature name="ConsecutiveGames"/>
+</configuration>
